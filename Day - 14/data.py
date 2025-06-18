@@ -1,0 +1,92 @@
+data = [
+    {
+        "name": "Cristiano Ronaldo",
+        "follower_count": 630,
+        "description": "Footballer",
+        "country": "Portugal",
+    },
+    {
+        "name": "Ariana Grande",
+        "follower_count": 380,
+        "description": "Musician and actress",
+        "country": "United States",
+    },
+    {
+        "name": "Dwayne Johnson",
+        "follower_count": 390,
+        "description": "Actor and professional wrestler",
+        "country": "United States",
+    },
+    {
+        "name": "Selena Gomez",
+        "follower_count": 420,
+        "description": "Musician and actress",
+        "country": "United States",
+    },
+    {
+        "name": "Kylie Jenner",
+        "follower_count": 420,
+        "description": "Reality TV personality and businesswoman",
+        "country": "United States",
+    },
+    {
+        "name": "Lionel Messi",
+        "follower_count": 510,
+        "description": "Footballer",
+        "country": "Argentina",
+    },
+    {
+        "name": "Neymar",
+        "follower_count": 280,
+        "description": "Footballer",
+        "country": "Brazil",
+    },
+    {
+        "name": "Taylor Swift",
+        "follower_count": 270,
+        "description": "Musician",
+        "country": "United States",
+    },
+    {
+        "name": "Virat Kohli",
+        "follower_count": 270,
+        "description": "Cricketer",
+        "country": "India",
+    },
+    {
+        "name": "Billie Eilish",
+        "follower_count": 110,
+        "description": "Musician",
+        "country": "United States",
+    },
+    {
+        "name": "Shah Rukh Khan",
+        "follower_count": 45,
+        "description": "Actor",
+        "country": "India",
+    },
+    {
+        "name": "MrBeast",
+        "follower_count": 430,
+        "description": "YouTuber and philanthropist",
+        "country": "United States",
+    },
+    {
+        "name": "Narendra Modi",
+        "follower_count": 90,
+        "description": "Prime Minister of India",
+        "country": "India",
+    },
+    {
+        "name": "Kim Kardashian",
+        "follower_count": 360,
+        "description": "Reality TV star and entrepreneur",
+        "country": "United States",
+    },
+    {
+        "name": "PewDiePie",
+        "follower_count": 110,
+        "description": "YouTuber and gamer",
+        "country": "Sweden",
+    },
+]
